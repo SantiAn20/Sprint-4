@@ -18,5 +18,5 @@ Luego el programa sólo va a ir tirando mensajes y opciones para seguir con la e
 
 
 ## Cuestiones a mejorar
-No usamos argumentos de línea de comando sino que usamos un menú para que el usuario elija que opciones quería.
+No usamos argumentos de línea de comando, sino que usamos un menú para que el usuario elija que opciones quiere.
 No hicimos la comprobación de si las fechas ingresadas son incorrectas, o el usuario cometió un error de tipeo, volver a pedirle que las ingrese, simplemente no encuentra los datos y tira mensaje de que no existe.
